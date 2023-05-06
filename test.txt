@@ -1,0 +1,4 @@
+hello world
+welcome to nginx!
+This is a panda.
+that's greate.
